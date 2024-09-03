@@ -6,7 +6,7 @@ utilization and the total cost incurred by each individual. To enable learning s
 
 The project is evaluated using two metrics: Root Mean Squared Error (RMSE) for the regression task and Macro F1 Score for the classification task, both calculated on the test set. My team ranked in the top 5% of all submissions and received a +0.3 bonus to our final grade on the German grading scale.
 
-Additionally, fair machine learning was discussed in the classification of healthcare utilization. Demographic Parity was adopted as the fairness metric to develop a fair machine learning model. 
+Furthermore, the project explores fair machine learning in the classification of healthcare utilization. My team adopted Demographic Parity as the fairness metric to develop a fair machine learning model. 
 
 
 ## Installation
