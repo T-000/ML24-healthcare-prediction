@@ -4,7 +4,7 @@
 This project is part of the Machine Learning core lecture in Saarland University SS24. The objective is to develop machine learning models capable of forecasting patients’ healthcare
 utilization and the total cost incurred by each individual. To enable learning such models, we are provided with a dataset compiled from a survey of patients in the United States. This dataset encompasses various features related to health data, demographics, and specific services utilized by individuals.
 
-The project is evaluated using two metrics: Root Mean Squared Error (RMSE) for the regression task and Macro F1 Score for the classification task, both calculated on the test set. My team ranked in the top 5% of all submissions and received a +0.3 bonus to our final grade on the German grading scale.
+The project is evaluated using two metrics: Root Mean Squared Error (RMSE) for the regression task and Macro F1 Score for the classification task, both calculated on the test set. We used Light Gradient Boosting Machine for both the regression task and the classification task after exploring many other models. My team ranked in the top 5% of all submissions and received a +0.3 bonus to our final grade on the German grading scale.
 
 Furthermore, the project explores fair machine learning in the classification of healthcare utilization. My team adopted Demographic Parity as the fairness metric to develop a fair machine learning model. 
 
